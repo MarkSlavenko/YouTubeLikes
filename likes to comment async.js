@@ -29,7 +29,7 @@ async function main(log, pass) {
   await page.waitFor('#like-button > a');
   await page.waitFor(2000);
   await page.click('#like-button > a');
-  console.log('Лайк поставлен!')
+  console.log('Like set!')
 
   await page.waitFor(1000);
   await browser.close();
