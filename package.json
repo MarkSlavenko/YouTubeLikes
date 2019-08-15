@@ -1,0 +1,17 @@
+{
+  "name": "LikesToCommentYouTube",
+  "version": "1.0.0",
+  "description": "## Start\r `npm install`\r `node name_of_file.js`",
+  "main": "likes to comment async.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "puppeteer": "^1.19.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
