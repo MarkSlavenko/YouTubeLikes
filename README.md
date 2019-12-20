@@ -1,5 +1,6 @@
 ## Start
 `npm install`
-`node name_of_file.js`
+`node likes to comment sync.js`
 ## Notes
-Doesn't work perfect. Google blocks likes, after 3-4. Ideally, embed VPN or proxy here.
+The program will put as many likes as you have a proxy. The number of accounts should equal the number of proxies. 
+Before start add info to: `accounts.txt`, `link.txt`, `proxies.txt`.
